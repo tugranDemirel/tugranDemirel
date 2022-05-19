@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tuğran Demirel</h1>
 <h3 align="center">A passionate backend developer from Turkey. Backend developer on web technologies. I am interested in artificial intelligence, image processing, big data. I am trying to improve myself. I am sharing the projects I have done on Github. Information multiplies as it is shared.</h3>
+<h2 align="center">Don't stop working 💻, keep improving!</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tugrandemirel&label=Profile%20views&color=0e75b6&style=flat" alt="tugrandemirel" /> </p>
 
